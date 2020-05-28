@@ -1,0 +1,13 @@
+.env
+.idea/*
+vendor/
+
+storage/*
+!/storage/certificate
+
+node_modules/
+
+.rnd
+.vscode/
+
+composer.lock
