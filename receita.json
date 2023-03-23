@@ -1,0 +1,173 @@
+{
+    "id": 352715,
+    "titulo": "Pavê de Reis",
+    "slug": "pave-de-reis",
+    "data": "2022-01-05 19:26:33",
+    "status": "publish",
+    "permalink": "https://www.develop.tvgazeta.com.br/receitas/pave-de-reis/",
+    "resumo": "Quer aprender a fazer uma sobremesa deliciosa e super fácil? Confira esse Pavê de Reis incrível do programa de hoje!",
+    "imagem": {
+        "thumbnail": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-05-at-15.14.06-300x300.jpeg",
+        "medium": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-05-at-15.14.06-500x375.jpeg",
+        "medium_large": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-05-at-15.14.06-768x576.jpeg",
+        "large": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-05-at-15.14.06-1024x768.jpeg",
+        "1536x1536": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-05-at-15.14.06.jpeg",
+        "2048x2048": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-05-at-15.14.06.jpeg",
+        "web-stories-poster-portrait": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-05-at-15.14.06.jpeg",
+        "web-stories-publisher-logo": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-05-at-15.14.06.jpeg",
+        "web-stories-thumbnail": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-05-at-15.14.06.jpeg"
+    },
+    "data_exibicao": "05/01/2022",
+    "programa": {
+        "id": 322,
+        "titulo": "Mulheres",
+        "slug": "mulheres",
+        "data": "2014-10-01 13:50:37",
+        "imagem": {
+            "thumbnail": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2014/10/logo-mulheres-destaque-1-300x300.png",
+            "medium": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2014/10/logo-mulheres-destaque-1-500x466.png",
+            "medium_large": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2014/10/logo-mulheres-destaque-1-768x716.png",
+            "large": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2014/10/logo-mulheres-destaque-1-1024x955.png",
+            "1536x1536": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2014/10/logo-mulheres-destaque-1.png",
+            "2048x2048": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2014/10/logo-mulheres-destaque-1.png",
+            "web-stories-poster-portrait": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2014/10/logo-mulheres-destaque-1.png",
+            "web-stories-publisher-logo": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2014/10/logo-mulheres-destaque-1.png",
+            "web-stories-thumbnail": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2014/10/logo-mulheres-destaque-1.png"
+        },
+        "permalink": "https://www.develop.tvgazeta.com.br/programas/mulheres/",
+        "index": 1,
+        "cor_de_fundo": "#ff3662",
+        "descricao": "Programa feminino mais tradicional da televisão brasileira, o ‘Mulheres’ traz diariamente quadros de culinária, saúde, religião e variedades.",
+        "descricao_completa": null,
+        "avatar": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2014/10/logo-mulheres-1.png",
+        "apresentador": "Regina Volpato",
+        "classificacao": "free",
+        "link": "https://www.develop.tvgazeta.com.br/mulheres/",
+        "ativo": true,
+        "categoria": "entretenimento",
+        "tipo": "programa",
+        "logo_mobile": "https://www.develop.tvgazeta.com.br/wp-content/uploads/2014/10/capa-mulheres-2.png",
+        "backgrounds_random": null,
+        "backgrounds_mobile": [],
+        "backgrounds_desktop": [],
+        "redes_sociais": {
+            "facebook": "http://www.facebook.com/gazetamulheres",
+            "twitter": "http://twitter.com/gazetamulheres",
+            "googleplus": null,
+            "instagram": null,
+            "youtube": null,
+            "linkedin": null,
+            "pinterest": null,
+            "tiktok": null,
+            "soundcloud": null,
+            "spotify": null,
+            "deezer": null,
+            "google_podcasts": null,
+            "apple_podcasts": null
+        },
+        "video_promocional": "",
+        "sobre": "",
+        "header": "",
+        "chamada_para_rede_social": "",
+        "imagem_para_compartilhamento_facebook": "",
+        "imagem_para_compartilhamento_twitter": "",
+        "tem_podcast": false,
+        "dados_podcast": {
+            "imagem": null
+        }
+    },
+    "video": {
+        "url": "https://youtu.be/reTqx6Gqs4c",
+        "embed": null,
+        "tempo_total": "00:15:52",
+        "cortes": []
+    },
+    "tempo_preparo": "00:10:00",
+    "rendimento_em_porcoes": "10",
+    "pratos": [
+        {
+            "titulo": "Calda",
+            "tempo_preparo": "",
+            "tempo_cozimento": "",
+            "ingredientes": [
+                "1 colher (sopa) de amido de milho",
+                "Suco de 4 laranjas"
+            ],
+            "modo_preparo": "Em uma panela, acrescente o suco de laranja com o amido de milho, dissolva bem, ligue o fogo e cozinhe até engrossar. Despeje por cima do pavê montado, coloque as frutas cristalizadas para decorar e leve para a geladeira por cerca de 2 horas. Sirva gelado.\n\n"
+        },
+        {
+            "titulo": "Creme",
+            "tempo_preparo": "",
+            "tempo_cozimento": "",
+            "ingredientes": [
+                "Suco de 4 laranjas",
+                "1 caixa (200g) de creme de leite",
+                "1 lata (395g) de leite condensado",
+                "1 xícara (chá) frutas cristalizadas",
+                "1 xícara (chá) uvas passas",
+                "2 colheres (sopa) de amido de milho"
+            ],
+            "modo_preparo": "Leve todos os ingredientes para a panela, cozinhando em fogo médio até engrossar. Reserve.\n"
+        },
+        {
+            "titulo": "Montagem",
+            "tempo_preparo": "",
+            "tempo_cozimento": "",
+            "ingredientes": [
+                "2 pacotes (400g) de biscoito de amido",
+                "1 xícara (chá) de água",
+                "50ml de Rum (opcional)",
+                "Frutas cristalizadas para decorar"
+            ],
+            "modo_preparo": "Em um refratário coloque uma camada de biscoitos umedecidos com o a água e o Rum. Acomode 1/3 do creme em toda a camada de biscoitos. Repita este processo em mais 2 camadas, finalizando com o creme."
+        }
+    ],
+    "categorias": [],
+    "ocasioes": [
+        {
+            "id": 73903,
+            "nome": "Sobremesa",
+            "slug": "sobremesa"
+        }
+    ],
+    "rendimentos": [
+        {
+            "id": 74907,
+            "nome": "10 ou mais",
+            "slug": "10-ou-mais-porcoes"
+        }
+    ],
+    "niveis_de_dificuldade": [
+        {
+            "id": 73354,
+            "nome": "Fácil",
+            "slug": "facil"
+        }
+    ],
+    "patrocinadores": [],
+    "chefs": [
+        {
+            "id": 75004,
+            "nome": "Vini Guerra",
+            "slug": "vini-guerra"
+        }
+    ],
+    "tipos_de_receita": [
+        {
+            "id": 38791,
+            "nome": "Doces",
+            "slug": "doces"
+        }
+    ],
+    "regioes": [],
+    "is_legacy": false,
+    "legacy": {
+        "tempo_total": null,
+        "porcoes": null,
+        "autor": null,
+        "tempo_cozimento": null,
+        "time": null,
+        "ingredientes": null,
+        "texto": null
+    }
+}
